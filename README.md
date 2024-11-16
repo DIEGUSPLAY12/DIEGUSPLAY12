@@ -11,10 +11,10 @@ Soy **DEVELOPER JUNIOR** con pasión por la programacion. Mi objetivo es crear p
 Si quieres seguirme o ponerte en contacto, aquí tienes mis redes sociales:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/TuUsuario)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/TuUsuario)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TuUsuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6F61?style=flat&logo=figma&logoColor=white)](https://www.tu-portfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/DIEGUSPLAY12)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/diegusplay_12)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DIEGUSPLAY12)
+
 
 ---
 
@@ -24,15 +24,16 @@ Trabajo con una amplia gama de tecnologías y herramientas. Aquí te muestro las
 
 ### 🌍 Lenguajes de Programación
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF8000?style=flat&logo=Color=white)
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat&logo=java&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-008F39?style=flat&logo=java&logoColor=black)
 
 
 ### 🎨 Diseño y UI/UX
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB900?style=flat&logo=sketch&logoColor=white)
+![Axure](https://img.shields.io/badge/Axure-007396?style=flat&logo=Axure&logoColor=white)
 
 ---
 
@@ -53,13 +54,13 @@ Aquí algunos de los proyectos que más me han apasionado:
 
 ## 📊 Estadísticas de GitHub
 
-[![Tu usuario de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&count_private=true&theme=radical)](https://github.com/TuUsuario)
+[![Tu usuario de GitHub](https://github-readme-stats.vercel.app/api?username=DIEGUSPLAY12&show_icons=true&count_private=true&theme=radical)](https://github.com/DIEGUSPLAY12)
 
 ---
 
 ## 📩 ¿Tienes alguna pregunta?
 
-¡No dudes en ponerte en contacto! Siempre estoy dispuesto/a a colaborar en nuevos proyectos y aprender de los demás. Puedes enviarme un mensaje en cualquiera de mis redes sociales o a través de [mi correo electronico](mailto:alexcamposramon@gmail.com).
+¡No dudes en ponerte en contacto! Siempre estoy dispuesto/a a colaborar en nuevos proyectos y aprender de los demás. Puedes enviarme un mensaje en cualquiera de mis redes sociales o a través de mi correo electronico que puedes enconttrar en mi bio debajo de mi foto de perfil.
 
 ---
 
