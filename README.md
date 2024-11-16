@@ -1,6 +1,7 @@
 # 👋 ¡Hola, soy DIEGO !
 
 Soy **DEVELOPER JUNIOR** con pasión por la programacion. Mi objetivo es crear proyectos que impacten positivamente y seguir aprendiendo constantemente. 
+
 🌱 Aquí podrás conocer más sobre mí y mis proyectos.
 
 ---
