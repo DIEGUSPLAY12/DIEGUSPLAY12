@@ -41,7 +41,7 @@ Trabajo con una amplia gama de tecnologías y herramientas. Aquí te muestro las
 
 Aquí algunos de los listados de los projectos que tengo:
 
-1. **[PROJECTOS DEL CILO DE DAW]()**  
+1. **[PROJECTOS DEL CILO DE DAW](https://github.com/DIEGUSPLAY12/MIS_PROJECTOS)**  
    Descripción breve de lo que hace este proyecto y por qué es interesante.
    
 2. **[Proyecto 2: Nombre del Proyecto](enlace-al-proyecto)**  
