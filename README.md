@@ -37,11 +37,11 @@ Trabajo con una amplia gama de tecnologías y herramientas. Aquí te muestro las
 
 ---
 
-## 🔥 Proyectos Destacados
+## 🔥 Listado de Proyectos
 
-Aquí algunos de los proyectos que más me han apasionado:
+Aquí algunos de los listados de los projectos que tengo:
 
-1. **[Proyecto 1: Nombre del Proyecto](enlace-al-proyecto)**  
+1. **[PROJECTOS DEL CILO DE DAW]()**  
    Descripción breve de lo que hace este proyecto y por qué es interesante.
    
 2. **[Proyecto 2: Nombre del Proyecto](enlace-al-proyecto)**  
