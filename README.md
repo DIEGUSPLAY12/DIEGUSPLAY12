@@ -42,12 +42,12 @@ Trabajo con una amplia gama de tecnologías y herramientas. Aquí te muestro las
 Aquí algunos de los listados de los projectos que tengo:
 
 1. **[PROJECTOS DEL CILO DE DAW](https://github.com/DIEGUSPLAY12/MIS_PROJECTOS)**  
-   Descripción breve de lo que hace este proyecto y por qué es interesante.
+   Ubicación con todos los trabajos del cilo de DAW ( HTML, Css, SQL)
    
-2. **[Proyecto 2: Nombre del Proyecto](enlace-al-proyecto)**  
-   Otra descripción breve con un enfoque en los retos técnicos que superaste.
+2. **[PROJECTOS DEL CICLO DE DAW (solo Java)]()**
+    Ubicación con todos los trabajos del cilo de DAW ( solo de Java) 
 
-3. **[Proyecto 3: Nombre del Proyecto](enlace-al-proyecto)**  
+4. **[Proyecto 3: Nombre del Proyecto](enlace-al-proyecto)**  
    Explica brevemente el objetivo del proyecto, cómo se implementó, y qué aprendiste.
 
 ---
