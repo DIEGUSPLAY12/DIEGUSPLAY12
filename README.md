@@ -47,11 +47,8 @@ Aquí algunos de los listados de los projectos que tengo:
    
 3. **[PROJECTOS DEL CICLO DE DAW (solo Java)](https://github.com/DIEGUSPLAY12/ONLY_JAVA)**
    
-   Ubicación con todos los trabajos del cilo de DAW ( solo de Java) 
-
-5. **[Proyecto 3: Nombre del Proyecto](enlace-al-proyecto)**  
-   Explica brevemente el objetivo del proyecto, cómo se implementó, y qué aprendiste.
-
+   Ubicación con todos los trabajos del cilo de DAW ( solo de Java)
+   
 ---
 
 ## 📊 Estadísticas de GitHub
