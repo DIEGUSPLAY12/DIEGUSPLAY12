@@ -70,7 +70,7 @@ Algunos de mis proyectos más relevantes durante el ciclo de DAW:
 Estoy abierto a colaborar en nuevos proyectos y aprender de otros desarrolladores.  
 Puedes encontrarme en las siguientes redes:  
 
-<div align="center">
+<div align="start">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-url)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DIEGUSPLAY12)
