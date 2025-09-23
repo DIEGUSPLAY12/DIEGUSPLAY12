@@ -84,17 +84,17 @@
 
 
   <g class="left-group" clip-path="url(#clipText)">
-    <text x="64" y="120" class="name">Diego Garcia</text>
-
-       
-    <text x="64" y="156" class="subtitle">Estudiante de Desarrollo de Aplicaciones Web · Frontend</text>
+ <text x="64" y="120" class="name">Diego Garcia</text>
+<text x="64" y="170" class="subtitle">Estudiante de Desarrollo de Aplicaciones Web · Frontend</text>
 
 
-    <g class="roles" transform="translate(64,200)">
-      <g><text class="role">Desarrollador Frontend</text></g>
-      <g><text class="role">HTML · CSS · JavaScript · PHP · TYPESCRIPT</text></g>
-      <g><text class="role">Construyendo UI limpias y rápidas</text></g>
-    </g>
+
+   <g class="roles" transform="translate(64,230)">
+  <g><text class="role">Desarrollador Frontend</text></g>
+  <g><text class="role">HTML · CSS · JavaScript · PHP · TYPESCRIPT</text></g>
+  <g><text class="role">Construyendo UI limpias y rápidas</text></g>
+</g>
+
 
     <rect x="64" y="224" width="460" height="1" fill="rgba(255,255,255,0.06)"/>
   </g>
