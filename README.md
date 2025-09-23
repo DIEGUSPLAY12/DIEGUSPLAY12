@@ -43,16 +43,20 @@ Interesado en **UI/UX y en la optimización del rendimiento web**, con el objeti
 
 Algunos de mis proyectos más relevantes durante el ciclo de DAW:  
 
-- **[Proyectos basados unicamnete en fronend ](https://github.com/DIEGUSPLAY12/MIS_PROJECTOS)**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24" alt="html logo" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24" alt="css logo" />  
+  **[Proyectos en HTML y CSS](https://github.com/DIEGUSPLAY12/MIS_PROJECTOS)**  
   Trabajos en HTML, CSS y SQL.  
 
-- **[Proyectos en Java](https://github.com/DIEGUSPLAY12/ONLY_JAVA)**  
-  Ejercicios , prácticas y proyectos en Java.
-  
-- **[Proyectos en PHP](https://github.com/DIEGUSPLAY12/PHP_ME)**  
-  Ejercicios , prácticas y proyectos en Java.    
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" alt="java logo" />  
+  **[Proyectos en Java](https://github.com/DIEGUSPLAY12/ONLY_JAVA)**  
+  Ejercicios, prácticas y proyectos en Java.  
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="24" alt="php logo" />  
+  **[Proyectos en PHP](https://github.com/DIEGUSPLAY12/PHP_ME)**  
+  Ejercicios, prácticas y proyectos en PHP.    
 
 ---
+
 
 ## 📊 Estadísticas de GitHub  
 
