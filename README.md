@@ -41,23 +41,21 @@ Interesado en **UI/UX y en la optimización del rendimiento web**, con el objeti
 
 ## 🚀 Proyectos a poder observar  
 
-Algunos de mis proyectos más relevantes durante el ciclo de DAW:  
+Aquí encontrarás algunos de mis proyectos más relevantes desarrollados durante el ciclo de **DAW**:  
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24" alt="html logo"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24" alt="css logo"/>  
-  **[Proyectos en HTML y CSS](https://github.com/DIEGUSPLAY12/MIS_PROJECTOS)**  
-  Trabajos en HTML, CSS y SQL.  
+- **Proyectos en HTML y CSS**  
+  _Colección de trabajos y prácticas enfocados en HTML, CSS y SQL._  
+  👉 [Ver repositorio](https://github.com/DIEGUSPLAY12/MIS_PROJECTOS)
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" alt="java logo"/>  
-  **[Proyectos en Java](https://github.com/DIEGUSPLAY12/ONLY_JAVA)**  
-  Ejercicios, prácticas y proyectos en Java.  
+- **Proyectos en Java**  
+  _Ejercicios, prácticas y pequeños proyectos realizados con Java._  
+  👉 [Ver repositorio](https://github.com/DIEGUSPLAY12/ONLY_JAVA)
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="24" alt="php logo"/>  
-  **[Proyectos en PHP](https://github.com/DIEGUSPLAY12/PHP_ME)**  
-  Ejercicios, prácticas y proyectos en PHP.    
+- **Proyectos en PHP**  
+  _Ejercicios, prácticas y proyectos desarrollados en PHP._  
+  👉 [Ver repositorio](https://github.com/DIEGUSPLAY12/PHP_ME)
 
 ---
-
-
 
 ## 📊 Estadísticas de GitHub  
 
@@ -80,11 +78,9 @@ Puedes encontrarme en las siguientes redes:
 
 <div align="start">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-url)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DIEGUSPLAY12)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diegusplay_12)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DIEGUSPLAY12)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-url) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DIEGUSPLAY12) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diegusplay_12) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DIEGUSPLAY12)  
 
 </div>
+
 
 ---
