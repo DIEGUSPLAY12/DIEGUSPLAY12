@@ -3,10 +3,11 @@
   <img src="./assets/banner.svg" alt="Banner - Diego García" width="100%" />
 </p>
 
-# Diego García  
+# Sobre mi  
 
-Estudiante de **Desarrollo de Aplicaciones Web**, apasionado por el **Frontend** y en constante aprendizaje.  
-Me interesa explorar nuevas tecnologías y crear proyectos que combinen **funcionalidad** y **diseño**.  
+**Estudiante de Desarrollo de Aplicaciones Web**, con enfoque en el **desarrollo frontend**.
+Apasionado por crear proyectos que combinen **diseño y funcionalidad**, actualmente aprendiendo **TypeScript y frameworks modernos**.
+Interesado en **UI/UX y en la optimización del rendimiento web**, con el objetivo de crecer como desarrollador y aportar valor en proyectos reales.
 
 ---
 
