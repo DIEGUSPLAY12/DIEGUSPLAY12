@@ -4,23 +4,12 @@
 </p>
 
 ---
-# 👋 ¡Hola! Soy Diego García  
 
 💻 Estudiante de **Desarrollo de Aplicaciones Web** · Apasionado por el **Frontend** y en constante aprendizaje.  
 🚀 Explorando nuevas tecnologías y creando proyectos que combinan **funcionalidad** y **diseño**.  
 
 ---
 
-## 📣 Conéctate conmigo  
-
-Si quieres seguirme o ponerte en contacto, aquí tienes mis redes sociales:  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-url)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DIEGUSPLAY12)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diegusplay_12)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DIEGUSPLAY12)  
-
----
 
 ## 🛠️ Lenguajes de Programación  
 
@@ -81,7 +70,14 @@ Puedes escribirme en cualquiera de mis redes sociales o a mi correo en la bio de
 
 ---
 
-¡No dudes en ponerte en contacto! Siempre estoy dispuesto/a a colaborar en nuevos proyectos y aprender de los demás. Puedes enviarme un mensaje en cualquiera de mis redes sociales o a través de mi correo electronico que puedes enconttrar en mi bio debajo de mi foto de perfil.
+## 📣 Conéctate conmigo  
+
+Si quieres seguirme o ponerte en contacto, aquí tienes mis redes sociales:  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-url)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DIEGUSPLAY12)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diegusplay_12)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DIEGUSPLAY12)  
 
 ---
 
