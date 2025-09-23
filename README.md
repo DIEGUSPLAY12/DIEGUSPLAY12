@@ -3,14 +3,6 @@
   <img src="./assets/banner.svg" alt="Banner - Tu Nombre" width="100%" />
 </p>
 
-
-
-# 👋 ¡Hola, soy DIEGO !
-
-Soy **DEVELOPER JUNIOR** con pasión por la programacion. Mi objetivo es crear proyectos que impacten positivamente y seguir aprendiendo constantemente. 
-
-🌱 Aquí podrás conocer más sobre mí y mis proyectos.
-
 ---
 
 ## 📣 Conéctate conmigo
@@ -25,11 +17,7 @@ Si quieres seguirme o ponerte en contacto, aquí tienes mis redes sociales:
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
-
-Trabajo con una amplia gama de tecnologías y herramientas. Aquí te muestro las que más utilizo:
-
-### Lenguajes de Programación
+### Lenguajes de Programación 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -47,7 +35,7 @@ Trabajo con una amplia gama de tecnologías y herramientas. Aquí te muestro las
 </div>
 
 
-### Frameworks and Tools
+### Frameworks and Tools 
 
 
 <div align="left">
@@ -66,12 +54,6 @@ Trabajo con una amplia gama de tecnologías y herramientas. Aquí te muestro las
   <img width="12" />
   
 </div>
-
-
-### 🎨 Diseño y UI/UX
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Axure](https://img.shields.io/badge/Axure-007396?style=flat&logo=Axure&logoColor=white)
 
 ---
 
