@@ -39,15 +39,18 @@ Interesado en **UI/UX y en la optimización del rendimiento web**, con el objeti
 
 ---
 
-## 🚀 Proyectos Destacados  
+## 🚀 Proyectos a poder observar  
 
 Algunos de mis proyectos más relevantes durante el ciclo de DAW:  
 
-- **[Proyectos del ciclo DAW](https://github.com/DIEGUSPLAY12/MIS_PROJECTOS)**  
+- **[Proyectos basados unicamnete en fronend ](https://github.com/DIEGUSPLAY12/MIS_PROJECTOS)**  
   Trabajos en HTML, CSS y SQL.  
 
 - **[Proyectos en Java](https://github.com/DIEGUSPLAY12/ONLY_JAVA)**  
-  Ejercicios y prácticas en Java.  
+  Ejercicios , prácticas y proyectos en Java.
+  
+- **[Proyectos en PHP](https://github.com/DIEGUSPLAY12/PHP_ME)**  
+  Ejercicios , prácticas y proyectos en Java.    
 
 ---
 
