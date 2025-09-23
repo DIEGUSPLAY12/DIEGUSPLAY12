@@ -80,3 +80,9 @@ Puedes encontrarme en las siguientes redes:
 </div>
 
 ---
+## ¿Tienes alguna pregunta?  
+
+¡Siempre estoy abierto a colaborar y aprender en nuevos proyectos!  
+Puedes escribirme en cualquiera de mis redes sociales o a mi correo en la bio de GitHub.  
+
+---
