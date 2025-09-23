@@ -76,5 +76,5 @@ Puedes encontrarme en las siguientes redes:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DIEGUSPLAY12)  
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="Banner - Diego García" width="100%" />
+  <img src="./assets/banner_final.svg" alt="Banner - Diego García" width="100%" />
 </p>
