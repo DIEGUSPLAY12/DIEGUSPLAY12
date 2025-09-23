@@ -5,15 +5,15 @@
 
 ---
 
-## Sobre mi  
+## 👤 Sobre mí  
 
-**Estudiante de Desarrollo de Aplicaciones Web**, con enfoque en el **desarrollo frontend**.
-Apasionado por crear proyectos que combinen **diseño y funcionalidad**, actualmente aprendiendo **TypeScript y frameworks modernos**.
-Interesado en **UI/UX y en la optimización del rendimiento web**, con el objetivo de crecer como desarrollador y aportar valor en proyectos reales.
+**Estudiante de Desarrollo de Aplicaciones Web**, con enfoque en el **desarrollo frontend**.  
+Apasionado por crear proyectos que combinen **diseño y funcionalidad**, actualmente aprendiendo **TypeScript y frameworks modernos**.  
+Interesado en **UI/UX y en la optimización del rendimiento web**, con el objetivo de crecer como desarrollador y aportar valor en proyectos reales.  
 
 ---
 
-## Lenguajes de Programación  
+## 💻 Lenguajes de Programación  
 
 <div align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="65" alt="java" />
@@ -26,7 +26,7 @@ Interesado en **UI/UX y en la optimización del rendimiento web**, con el objeti
 
 ---
 
-## Frameworks y Herramientas  
+## ⚙️ Frameworks y Herramientas  
 
 <div align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="65" alt="git" />
@@ -39,7 +39,7 @@ Interesado en **UI/UX y en la optimización del rendimiento web**, con el objeti
 
 ---
 
-## Proyectos Destacados  
+## 🚀 Proyectos Destacados  
 
 Algunos de mis proyectos más relevantes durante el ciclo de DAW:  
 
@@ -51,7 +51,7 @@ Algunos de mis proyectos más relevantes durante el ciclo de DAW:
 
 ---
 
-## Estadísticas de GitHub  
+## 📊 Estadísticas de GitHub  
 
 <div align="center">
 
@@ -65,24 +65,18 @@ Algunos de mis proyectos más relevantes durante el ciclo de DAW:
 
 ---
 
-## Contacto  
+## 📬 Contacto  
 
 Estoy abierto a colaborar en nuevos proyectos y aprender de otros desarrolladores.  
 Puedes encontrarme en las siguientes redes:  
 
 <div align="start">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DIEGUSPLAY12)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diegusplay_12)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DIEGUSPLAY12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-url)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DIEGUSPLAY12)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diegusplay_12)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DIEGUSPLAY12)  
 
 </div>
-
----
-## ¿Tienes alguna pregunta?  
-
-¡Siempre estoy abierto a colaborar y aprender en nuevos proyectos!  
-Puedes escribirme en cualquiera de mis redes sociales o a mi correo en la bio de GitHub.  
 
 ---
