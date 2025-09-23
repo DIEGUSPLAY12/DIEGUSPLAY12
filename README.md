@@ -61,15 +61,27 @@ Aquí encontrarás algunos de mis proyectos más relevantes desarrollados durant
 
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DIEGUSPLAY12&show_icons=true&count_private=true&theme=radical)  
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGUSPLAY12&layout=compact&theme=radical)  
-
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=DIEGUSPLAY12&theme=radical)  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=DIEGUSPLAY12&show_icons=true&count_private=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIEGUSPLAY12&theme=tokyonight" alt="Racha de contribuciones" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGUSPLAY12&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
+
+
 
 ## 📬 Contacto  
 
