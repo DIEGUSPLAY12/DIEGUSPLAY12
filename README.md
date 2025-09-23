@@ -1,3 +1,10 @@
+<!-- Banner principal -->
+<p align="center">
+  <img src="./assets/banner.svg" alt="Banner - Tu Nombre" width="100%" />
+</p>
+
+
+
 # 👋 ¡Hola, soy DIEGO !
 
 Soy **DEVELOPER JUNIOR** con pasión por la programacion. Mi objetivo es crear proyectos que impacten positivamente y seguir aprendiendo constantemente. 
