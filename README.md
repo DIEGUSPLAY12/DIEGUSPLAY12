@@ -2,7 +2,9 @@
 <p align="center">
   <img src="./assets/banner.svg" alt="Banner - Diego García" width="100%" />
 </p>
+
 ---
+
 ## Sobre mi  
 
 **Estudiante de Desarrollo de Aplicaciones Web**, con enfoque en el **desarrollo frontend**.
