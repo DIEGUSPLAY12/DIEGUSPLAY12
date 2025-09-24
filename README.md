@@ -94,5 +94,6 @@ Puedes encontrarme en las siguientes redes:
 
 </div>
 
-
----
+<p align="center">
+  <img src="./assets/banner_final.svg" alt="Banner_final - Diego García" width="100%" />
+</p>
