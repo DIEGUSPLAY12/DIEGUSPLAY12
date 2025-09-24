@@ -7,9 +7,10 @@
 
 ## 👤 Sobre mí  
 
-**Estudiante de Desarrollo de Aplicaciones Web**, con enfoque en el **desarrollo frontend**.  
-Apasionado por crear proyectos que combinen **diseño y funcionalidad**, actualmente aprendiendo **TypeScript y frameworks modernos**.  
-Interesado en **UI/UX y en la optimización del rendimiento web**, con el objetivo de crecer como desarrollador y aportar valor en proyectos reales.  
+Soy estudiante de **Desarrollo de Aplicaciones Web**, enfocado en el **frontend**.  
+Me gusta crear proyectos que mezclen **diseño y funcionalidad**, y ahora mismo estoy aprendiendo **TypeScript** y algunos **frameworks modernos**.  
+
+Tengo mucho interés en el **UI/UX** y en cómo mejorar el **rendimiento de las páginas web**, con la meta de seguir creciendo como desarrollador y aportar en proyectos reales. 
 
 ---
 
