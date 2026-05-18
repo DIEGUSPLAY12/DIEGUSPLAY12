@@ -51,10 +51,10 @@
 
 Aquí encontrarás algunos de mis proyectos más relevantes desarrollados durante el ciclo de **DAW**:  
 
-| 🌐 HTML y CSS | ☕ Java | 🐘 PHP |
+| 🏃‍♂️ Runity App | 🏠 AporTamos | 🐘 PR-PHP |
 | :--- | :--- | :--- |
-| _Colección de trabajos y prácticas enfocados en HTML, CSS y SQL._ | _Ejercicios, prácticas y pequeños proyectos realizados con Java._ | _Ejercicios, prácticas y proyectos desarrollados en PHP._ |
-| [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/MIS_PROJECTOS) | [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/ONLY_JAVA) | [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/PHP_ME) |
+| _Proyecto principal de aplicación web integrando mis conocimientos de desarrollo._ | _App en desarrollo diseñada para organizar y gestionar las tareas del hogar._ | _Ejercicios, prácticas y proyectos desarrollados en PHP._ |
+| [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/Runity-App) | [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/AporTamos) | [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/PR-PHP) |
 
 ---
 
