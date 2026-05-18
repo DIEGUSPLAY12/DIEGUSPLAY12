@@ -53,8 +53,8 @@ Aquí encontrarás algunos de mis proyectos más relevantes desarrollados durant
 
 ### 🏃‍♂️ Runity App
 **Proyecto principal de aplicación web (E-commerce)**
-Se trata de una plataforma web completa desarrollada bajo una arquitectura desacoplada. Para la lógica de negocio y la API utilicé **Laravel**, asegurando un backend robusto y escalable, mientras que el frontend está construido con **React** para ofrecer una experiencia de usuario rápida y dinámica. Todo el entorno está containerizado utilizando Docker (Laravel Sail) para optimizar el flujo de trabajo.
-*   **Tecnologías:** React, Laravel, Docker, MySQL.
+Se trata de una plataforma mobil completa desarrollada bajo una arquitectura desacoplada. Para la lógica de negocio y la API utilicé **FastApi**, asegurando un backend robusto y escalable, mientras que el frontend está construido con **React Vanilla** para ofrecer una experiencia de usuario rápida y dinámica. Todo el entorno está containerizado utilizando Docker (Supabase Local) para optimizar el flujo de trabajo.
+*   **Tecnologías:** React, FastApi, Docker, PostgreSQL, Supabase.
 *   [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/Runity-App)
 
 ---
