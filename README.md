@@ -7,7 +7,7 @@
 ## 👤 Sobre mí  
 
 > Soy estudiante de **Desarrollo de Aplicaciones Web**, enfocado en el **frontend**.  
-> Me gusta crear proyectos que mezclen **diseño y funcionalidad**, y ahora mismo estoy aprendiendo **TypeScript** y algunos **frameworks modernos**.  
+> Me gusta crear proyectos que mezclen **diseño y funcionalidad**, y ahora mismo estoy aprendiendo **React Vanilla** y algunos **frameworks modernos**.  
 > 
 > Tengo mucho interés en el **UI/UX** y en cómo mejorar el **rendimiento de las páginas web**, con la meta de seguir creciendo como desarrollador y aportar en proyectos reales. 
 
