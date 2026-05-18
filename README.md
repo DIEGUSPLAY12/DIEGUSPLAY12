@@ -61,11 +61,12 @@ Aquí encontrarás algunos de mis proyectos más relevantes desarrollados durant
 <h2 align="center">📊 Estadísticas de GitHub</h2>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DIEGUSPLAY12&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIEGUSPLAY12&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DIEGUSPLAY12&theme=tokyonight" alt="Detalles del Perfil" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGUSPLAY12&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DIEGUSPLAY12&theme=tokyonight" alt="Estadísticas de GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DIEGUSPLAY12&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
