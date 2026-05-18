@@ -47,14 +47,33 @@
 
 ---
 
-## 🚀 Proyectos a poder observar  
+## 🚀 Proyectos Destacados  
 
-Aquí encontrarás algunos de mis proyectos más relevantes desarrollados durante el ciclo de **DAW**:  
+Aquí encontrarás algunos de mis proyectos más relevantes desarrollados durante mi formación en **DAW** y de manera personal:  
 
-| 🏃‍♂️ Runity App | 🏠 AporTamos | 🐘 PR-PHP |
-| :--- | :--- | :--- |
-| _Proyecto principal de aplicación web integrando mis conocimientos de desarrollo._ | _App en desarrollo diseñada para organizar y gestionar las tareas del hogar._ | _Ejercicios, prácticas y proyectos desarrollados en PHP._ |
-| [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/Runity-App) | [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/AporTamos) | [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/PR-PHP) |
+### 🏃‍♂️ Runity App
+**Proyecto principal de aplicación web (E-commerce)**
+Se trata de una plataforma web completa desarrollada bajo una arquitectura desacoplada. Para la lógica de negocio y la API utilicé **Laravel**, asegurando un backend robusto y escalable, mientras que el frontend está construido con **React** para ofrecer una experiencia de usuario rápida y dinámica. Todo el entorno está containerizado utilizando Docker (Laravel Sail) para optimizar el flujo de trabajo.
+*   **Tecnologías:** React, Laravel, Docker, MySQL.
+*   [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/Runity-App)
+
+---
+
+### 🏠 AporTamos
+**Gestión inteligente de tareas del hogar**
+Aplicación actualmente en fase de desarrollo diseñada para organizar, asignar y hacer un seguimiento de las tareas domésticas. El objetivo principal es facilitar la convivencia y asegurar un reparto equitativo de las responsabilidades del día a día mediante una interfaz clara e intuitiva.
+*   **Estado:** En desarrollo activo 🛠️
+*   [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/AporTamos)
+
+---
+
+### 🐘 PR-PHP
+**Fundamentos y Backend puro**
+Colección de ejercicios, prácticas y proyectos desarrollados en PHP. Este repositorio es un reflejo de mi evolución técnica y sirve como base para asentar conceptos de lógica de programación, conexión a bases de datos y buenas prácticas de desarrollo del lado del servidor.
+*   **Tecnologías:** PHP, SQL.
+*   [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/PR-PHP)
+
+<br>
 
 ---
 
