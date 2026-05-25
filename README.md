@@ -67,14 +67,13 @@ Aplicación actualmente en fase de desarrollo diseñada para organizar, asignar 
 
 ---
 
-### 🐘 PR-PHP
-**Fundamentos y Backend puro**
-Colección de ejercicios, prácticas y proyectos desarrollados en PHP. Este repositorio es un reflejo de mi evolución técnica y sirve como base para asentar conceptos de lógica de programación, conexión a bases de datos y buenas prácticas de desarrollo del lado del servidor.
-*   **Tecnologías:** PHP, SQL.
-*   [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/PR-PHP)
+### 👕 PerfecT-Shirt
+**E-commerce de Camisetas de Fútbol**
+Desarrollo de una plataforma web de comercio electrónico centrada en la venta de camisetas de fútbol. Este proyecto demuestra la implementación de una tienda online completa, aplicando conceptos de lógica de negocio, gestión de bases de datos para el catálogo y usuarios, y diseño de una experiencia de compra optimizada.
+* **Tecnologías:** HTML5, CSS3, JS, Laravel, Mysql, Docker.
+* [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/PerfecT-Shirt)
 
 <br>
-
 ---
 
 <h2 align="center">📊 Estadísticas de GitHub</h2>  
