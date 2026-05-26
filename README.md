@@ -52,7 +52,7 @@
 Aquí encontrarás algunos de mis proyectos más relevantes desarrollados durante mi formación en **DAW** y de manera personal:  
 
 ### 🏃‍♂️ Runity App
-**Proyecto principal de aplicación móvil**
+#**Proyecto principal de aplicación móvil**
 Desarrollo de una plataforma móvil completa orientada al seguimiento y gestión de la actividad física, construida bajo una arquitectura desacoplada para mejorar la escalabilidad y el mantenimiento del proyecto.
 La lógica de negocio y la API fueron desarrolladas con **FastAPI**, proporcionando un backend robusto y escalable. El frontend se construyó con **React Vanilla**, ofreciendo una experiencia de usuario rápida, dinámica e intuitiva. Además, todo el entorno de desarrollo y ejecución está containerizado mediante **Docker** y configurado con **Supabase Local**, optimizando el flujo de trabajo y garantizando consistencia entre entornos.
 La aplicación permite gestionar y registrar métricas relacionadas con la actividad física, como **calorías consumidas, pasos diarios, distancia recorrida y tiempo de entrenamiento**, facilitando al usuario el seguimiento de su progreso de forma centralizada.
@@ -62,7 +62,7 @@ La aplicación permite gestionar y registrar métricas relacionadas con la activ
 ---
 
 ### 🏠 AporTamos
-**Gestión inteligente de tareas del hogar**
+#**Gestión inteligente de tareas del hogar**
 Aplicación actualmente en fase de desarrollo diseñada para organizar, asignar y hacer un seguimiento de las tareas domésticas. El objetivo principal es facilitar la convivencia y asegurar un reparto equitativo de las responsabilidades del día a día mediante una interfaz clara e intuitiva.
 *   **Estado:** En desarrollo activo 🛠️
 *   [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/AporTamos)
@@ -70,7 +70,7 @@ Aplicación actualmente en fase de desarrollo diseñada para organizar, asignar 
 ---
 
 ### 👕 PerfecT-Shirt
-**E-commerce de Camisetas de Fútbol**
+#**E-commerce de Camisetas de Fútbol**
 Desarrollo de una plataforma web de comercio electrónico centrada en la venta de camisetas de fútbol. Este proyecto demuestra la implementación de una tienda online completa, aplicando conceptos de lógica de negocio, gestión de bases de datos para el catálogo y usuarios, y diseño de una experiencia de compra optimizada.
 * **Tecnologías:** HTML5, CSS3, JS, Laravel, Mysql, Docker.
 * [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/PerfecT-Shirt)
