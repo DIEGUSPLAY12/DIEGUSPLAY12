@@ -52,9 +52,15 @@
 Aquí encontrarás algunos de mis proyectos más relevantes desarrollados durante mi formación en **DAW** y de manera personal:  
 
 ### 🏃‍♂️ Runity App
-**Proyecto principal de aplicación web (E-commerce)**
-Se trata de una plataforma mobil completa desarrollada bajo una arquitectura desacoplada. Para la lógica de negocio y la API utilicé **FastApi**, asegurando un backend robusto y escalable, mientras que el frontend está construido con **React Vanilla** para ofrecer una experiencia de usuario rápida y dinámica. Todo el entorno está containerizado utilizando Docker (Supabase Local) para optimizar el flujo de trabajo.
-*   **Tecnologías:** React, FastApi, Docker, PostgreSQL, Supabase.
+## **Proyecto principal de aplicación móvil**
+
+Desarrollo de una plataforma móvil completa orientada al seguimiento y gestión de la actividad física, construida bajo una arquitectura desacoplada para mejorar la escalabilidad y el mantenimiento del proyecto.
+
+La lógica de negocio y la API fueron desarrolladas con **FastAPI**, proporcionando un backend robusto y escalable. El frontend se construyó con **React Vanilla**, ofreciendo una experiencia de usuario rápida, dinámica e intuitiva. Además, todo el entorno de desarrollo y ejecución está containerizado mediante **Docker** y configurado con **Supabase Local**, optimizando el flujo de trabajo y garantizando consistencia entre entornos.
+
+La aplicación permite gestionar y registrar métricas relacionadas con la actividad física, como **calorías consumidas, pasos diarios, distancia recorrida y tiempo de entrenamiento**, facilitando al usuario el seguimiento de su progreso de forma centralizada.
+
+**Tecnologías:** React Vanilla, FastAPI, Docker, PostgreSQL y Supabase.
 *   [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/Runity-App)
 
 ---
