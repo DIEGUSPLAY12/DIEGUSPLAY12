@@ -54,16 +54,22 @@ Aquí encontrarás algunos de mis proyectos más relevantes desarrollados durant
 ## 🏃‍♂️ Runity App
 ### **Proyecto principal de aplicación móvil**
 Aplicación móvil de seguimiento de actividad física desarrollada bajo una arquitectura desacoplada. El backend y la API fueron construidos con **FastAPI**, mientras que el frontend se desarrolló con **React Vanilla**. El entorno está containerizado con **Docker** y configurado con **Supabase Local**. La aplicación permite registrar y consultar métricas como **calorías, pasos, distancia recorrida y tiempo de entrenamiento**.
-**Tecnologías:** React Vanilla, FastAPI, Docker, PostgreSQL y Supabase.
-*   [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/Runity-App)
+* **Tecnologías:** React Vanilla, FastAPI, Docker, PostgreSQL y Supabase.
+* [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/Runity-App)
+* **🤝 Colaboradores:**
+  * [Diego García](https://www.linkedin.com/in/diego-garc%C3%ADa-senciales/) - *Backend*
+  * [Hugo Solís](https://www.linkedin.com/in/hugo-solis-torrijos-bab456297/) - *Frontend*
 
 ---
 
 ## 🏠 AporTamos
 ### **Gestión inteligente de tareas del hogar**
 Aplicación actualmente en fase de desarrollo diseñada para organizar, asignar y hacer un seguimiento de las tareas domésticas. El objetivo principal es facilitar la convivencia y asegurar un reparto equitativo de las responsabilidades del día a día mediante una interfaz clara e intuitiva.
-*   **Estado:** En desarrollo activo 🛠️
-*   [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/AporTamos)
+* **Estado:** En desarrollo activo 🛠️
+* [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/AporTamos)
+* **🤝 Colaboradores:**
+  * [Diego García](https://www.linkedin.com/in/diego-garc%C3%ADa-senciales/) - *Backend*
+  * [Hugo Solís](https://www.linkedin.com/in/hugo-solis-torrijos-bab456297/) - *Frontend*
 
 ---
 
@@ -72,6 +78,9 @@ Aplicación actualmente en fase de desarrollo diseñada para organizar, asignar 
 Desarrollo de una plataforma web de comercio electrónico centrada en la venta de camisetas de fútbol. Este proyecto demuestra la implementación de una tienda online completa, aplicando conceptos de lógica de negocio, gestión de bases de datos para el catálogo y usuarios, y diseño de una experiencia de compra optimizada.
 * **Tecnologías:** HTML5, CSS3, JS, Laravel, Mysql, Docker.
 * [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/PerfecT-Shirt)
+* **🤝 Colaboradores:**
+  * [Diego García](https://www.linkedin.com/in/diego-garc%C3%ADa-senciales/) - *Backend*
+  * [Hugo Solís](https://www.linkedin.com/in/hugo-solis-torrijos-bab456297/) - *Frontend*
 
 <br>
 ---
