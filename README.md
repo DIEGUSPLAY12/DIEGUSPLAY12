@@ -64,8 +64,8 @@ Aplicación móvil de seguimiento de actividad física desarrollada bajo una arq
 
 ## 🏠 AporTamos
 ### **Gestión inteligente de tareas del hogar**
-Aplicación actualmente en fase de desarrollo diseñada para organizar, asignar y hacer un seguimiento de las tareas domésticas. El objetivo principal es facilitar la convivencia y asegurar un reparto equitativo de las responsabilidades del día a día mediante una interfaz clara e intuitiva.
-* **Estado:** En desarrollo activo 🛠️
+Aplicación diseñada para organizar, asignar y hacer un seguimiento de las tareas domésticas. El objetivo principal es facilitar la convivencia y asegurar un reparto equitativo de las responsabilidades del día a día mediante una interfaz clara e intuitiva.
+* **Tecnologías:** React Vanilla, FastAPI, Docker, PostgreSQL y Supabase.
 * [**👉 Ver repositorio**](https://github.com/DIEGUSPLAY12/AporTamos)
 * **🤝 Colaboradores:**
   * [Diego García](https://www.linkedin.com/in/diego-garc%C3%ADa-senciales/) - *Backend*
