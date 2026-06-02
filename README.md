@@ -83,7 +83,6 @@ Desarrollo de una plataforma web de comercio electrónico centrada en la venta d
   * [Hugo Solís](https://www.linkedin.com/in/hugo-solis-torrijos-bab456297/) - *Frontend*
 
 <br>
----
 
 <h2 align="center">📊 Estadísticas de GitHub</h2>  
 
