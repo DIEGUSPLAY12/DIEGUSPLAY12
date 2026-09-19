@@ -57,6 +57,8 @@ Aplicación móvil de fitness y registro de fuerza desarrollada para optimizar e
 * **Tecnologías:** React Native, Expo, TypeScript, Supabase, PostgreSQL, TanStack Query y Zustand.
   * [ Ver repositorio ](https://github.com/DIEGUSPLAY12/Bitacora-Fit-App)
 
+  * [ Visitar web oficial / Descargar APK ](https://diegusplay12.github.io/Bitacora-Fit-Web/)
+
     
 * **Colaboradores:**
   * [Diego García](https://www.linkedin.com/in/diego-garc%C3%ADa-senciales/) - *Full Stack Mobile Developer*
