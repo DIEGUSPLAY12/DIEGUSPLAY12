@@ -49,7 +49,20 @@
 
 ## 🚀 Proyectos Destacados  
 
-Aquí encontrarás algunos de mis proyectos más relevantes desarrollados durante mi formación en **DAW** y de manera personal:  
+Aquí encontrarás algunos de mis proyectos más relevantes desarrollados durante mi formación en **DAW** y de manera personal: 
+
+##  BitacoraFit
+### **Aplicación móvil de registro y seguimiento de entrenamientos**
+Aplicación móvil de fitness y registro de fuerza desarrollada para optimizar el progreso y rendimiento deportivo. La interfaz y lógica cliente fueron construidas con **React Native** y **Expo** utilizando **TypeScript** y navegación moderna con **Expo Router**, mientras que el backend, la autenticación y la base de datos relacional están gestionados con **Supabase** y **PostgreSQL**. La sincronización y el estado global se manejan mediante **TanStack Query** y **Zustand**. La aplicación permite planificar rutinas personalizadas, registrar entrenamientos en tiempo real (**series, repeticiones, peso, RPE y descansos**), seguir la evolución corporal y récords personales (**PRs** y rachas), e interactuar mediante un **feed social y chat en tiempo real**.
+* **Tecnologías:** React Native, Expo, TypeScript, Supabase, PostgreSQL, TanStack Query y Zustand.
+  * [ Ver repositorio ](https://github.com/DIEGUSPLAY12/Bitacora-Fit-App)
+
+    
+* **Colaboradores:**
+  * [Diego García](https://www.linkedin.com/in/diego-garc%C3%ADa-senciales/) - *Full Stack Mobile Developer*
+
+---
+
 
 ##  Runity App
 ### **Proyecto principal de aplicación móvil**
